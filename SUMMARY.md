@@ -64,6 +64,8 @@
     * [Backspace String Compare](30-day-leetcoding-challenge/2020-04/backspace-string-compare.md)
     * [Min Stack](30-day-leetcoding-challenge/2020-04/min-stack.md)
     * [Diameter of Binary Tree](30-day-leetcoding-challenge/2020-04/diameter-of-binary-tree.md)
+    * [Last Stone Weight](30-day-leetcoding-challenge/2020-04/last-stone-weight.md)
+    * [Contiguous Array](30-day-leetcoding-challenge/2020-04/contiguous-array.md)
   * [2020-05](30-day-leetcoding-challenge/2020-05/README.md)
     * [First Bad Version](30-day-leetcoding-challenge/2020-05/first-bad-version.md)
     * [Jewels and Stones](30-day-leetcoding-challenge/2020-05/jewels-and-stones.md)

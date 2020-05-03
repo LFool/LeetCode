@@ -69,4 +69,5 @@
   * [2020-05](30-day-leetcoding-challenge/2020-05/README.md)
     * [First Bad Version](30-day-leetcoding-challenge/2020-05/first-bad-version.md)
     * [Jewels and Stones](30-day-leetcoding-challenge/2020-05/jewels-and-stones.md)
+    * [Ransom Note](30-day-leetcoding-challenge/2020-05/ransom-note.md)
 

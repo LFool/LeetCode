@@ -19,7 +19,7 @@ The Linked List is represented in the input/output as a list of `n` nodes. Each 
 
 **Example 2:**
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 > **Input:** head = \[\[1,1\],\[2,1\]\] 
 >

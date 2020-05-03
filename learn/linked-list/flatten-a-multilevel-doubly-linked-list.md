@@ -14,7 +14,7 @@ Flatten the list so that all the nodes appear in a single-level, doubly linked l
 >
 > The multilevel linked list in the input is as follows:
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 > After flattening the multilevel linked list it becomes:
 

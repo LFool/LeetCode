@@ -78,6 +78,7 @@
     * [Jump Game](30-day-leetcoding-challenge/2020-04/jump-game.md)
     * [Longest Common Subsequence](30-day-leetcoding-challenge/2020-04/longest-common-subsequence.md)
     * [Maximal Square](30-day-leetcoding-challenge/2020-04/maximal-square.md)
+    * [Binary Tree Maximum Path Sum](30-day-leetcoding-challenge/2020-04/binary-tree-maximum-path-sum.md)
   * [2020-05](30-day-leetcoding-challenge/2020-05/README.md)
     * [First Bad Version](30-day-leetcoding-challenge/2020-05/first-bad-version.md)
     * [Jewels and Stones](30-day-leetcoding-challenge/2020-05/jewels-and-stones.md)

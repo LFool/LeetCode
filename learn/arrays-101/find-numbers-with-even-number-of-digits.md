@@ -1,5 +1,7 @@
 # Find Numbers with Even Number of Digits
 
+## Description
+
 Given an array `nums` of integers, return how many of them contain an **even number** of digits.
 
 **Example 1:**
@@ -38,6 +40,8 @@ Given an array `nums` of integers, return how many of them contain an **even num
 
 * `1 <= nums.length <= 500`
 * `1 <= nums[i] <= 10^5`
+
+## **Code**
 
 ```java
 public boolean judge(int num) {

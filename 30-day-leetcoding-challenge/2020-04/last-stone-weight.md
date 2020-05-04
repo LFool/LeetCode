@@ -1,5 +1,7 @@
 # Last Stone Weight
 
+## Description
+
 We have a collection of stones, each stone has a positive integer weight.
 
 Each turn, we choose the two **heaviest** stones and smash them together.  Suppose the stones have weights `x` and `y` with `x <= y`.  The result of this smash is:
@@ -29,6 +31,8 @@ At the end, there is at most 1 stone left.  Return the weight of this stone \(or
 
 1. `1 <= stones.length <= 30`
 2. `1 <= stones[i] <= 1000`
+
+## **Code**
 
 ```java
 class Solution {

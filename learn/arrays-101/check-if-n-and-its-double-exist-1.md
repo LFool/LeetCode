@@ -1,5 +1,7 @@
 # Check If N and Its Double Exist
 
+## Description
+
 Given an array `arr` of integers, check if there exists two integers `N` and `M` such that `N` is the double of `M` \( i.e. `N = 2 * M`\).
 
 More formally check if there exists two indices `i` and `j` such that :
@@ -36,6 +38,8 @@ More formally check if there exists two indices `i` and `j` such that :
 
 * `2 <= arr.length <= 500`
 * `-10^3 <= arr[i] <= 10^3`
+
+## **Code**
 
 ```java
 public boolean checkIfExist(int[] arr) {

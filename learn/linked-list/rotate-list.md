@@ -1,5 +1,7 @@
 # Rotate List
 
+## Description
+
 Given a linked list, rotate the list to the right by _k_ places, where _k_ is non-negative.
 
 **Example 1:**
@@ -29,6 +31,8 @@ Given a linked list, rotate the list to the right by _k_ places, where _k_ is no
 > rotate 3 steps to the right: 0-&gt;1-&gt;2-&gt;NULL 
 >
 > rotate 4 steps to the right: 2-&gt;0-&gt;1-&gt;NULL
+
+## **Code**
 
 ```java
 /**

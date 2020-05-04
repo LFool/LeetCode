@@ -1,5 +1,7 @@
 # Intersection of Two Linked Lists
 
+## Description
+
 Write a program to find the node at which the intersection of two singly linked lists begins.
 
 For example, the following two linked lists:
@@ -44,6 +46,8 @@ begin to intersect at node c1.
 * The linked lists must retain their original structure after the function returns.
 * You may assume there are no cycles anywhere in the entire linked structure.
 * Your code should preferably run in O\(n\) time and use only O\(1\) memory.
+
+## **Code**
 
 ```java
 /**

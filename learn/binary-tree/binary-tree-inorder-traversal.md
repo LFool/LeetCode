@@ -1,5 +1,7 @@
 # Binary Tree Inorder Traversal
 
+## Description
+
 Given a binary tree, return the _inorder_ traversal of its nodes' values.
 
 **Example:**
@@ -16,6 +18,8 @@ Output: [1,3,2]
 ```
 
 **Follow up:** Recursive solution is trivial, could you do it iteratively?
+
+## **Code**
 
 ```java
 /**

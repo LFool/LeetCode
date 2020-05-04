@@ -1,5 +1,7 @@
 # Duplicate Zeros
 
+## Description
+
 Given a fixed length array `arr` of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
 
 Note that elements beyond the length of the original array are not written.
@@ -28,6 +30,8 @@ Do the above modifications to the input array **in place**, do not return anythi
 
 * `1 <= arr.length <= 10000`
 * `0 <= arr[i] <= 9`
+
+## **Code**
 
 ```java
 // 从下标i开始将数组整体向后移动一格

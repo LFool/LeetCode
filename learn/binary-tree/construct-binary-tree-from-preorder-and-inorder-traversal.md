@@ -1,5 +1,7 @@
 # Construct Binary Tree from Preorder and Inorder Traversal
 
+## Description
+
 Given preorder and inorder traversal of a tree, construct the binary tree.
 
 **Note:**  
@@ -21,9 +23,7 @@ Return the following binary tree:
    15   7
 ```
 
-\*\*\*\*
-
-**Solution Code:**
+## **Code**
 
 ```java
 /**

@@ -1,5 +1,7 @@
 # Third Maximum Number
 
+## Description
+
 Given a **non-empty** array of integers, return the **third** maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O\(n\).
 
 **Example 1:**
@@ -25,6 +27,8 @@ Given a **non-empty** array of integers, return the **third** maximum number in 
 > **Output:** 1
 >
 > **Explanation:** Note that the third maximum here means the third maximum distinct number. Both numbers with value 2 are both considered as second maximum.
+
+## **Code**
 
 {% tabs %}
 {% tab title="Java" %}

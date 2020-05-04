@@ -1,5 +1,7 @@
 # Maximum Subarray
 
+## Description
+
 Given an integer array `nums`, find the contiguous subarray \(containing at least one number\) which has the largest sum and return its sum.
 
 **Example:**
@@ -13,6 +15,8 @@ Given an integer array `nums`, find the contiguous subarray \(containing at leas
 **Follow up:**
 
 If you have figured out the O\(_n_\) solution, try coding another solution using the divide and conquer approach, which is more subtle.
+
+## **Code**
 
 {% tabs %}
 {% tab title="Java" %}

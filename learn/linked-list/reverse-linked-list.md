@@ -1,5 +1,7 @@
 # Reverse Linked List
 
+## Description
+
 Reverse a singly linked list.
 
 **Example:**
@@ -11,6 +13,8 @@ Reverse a singly linked list.
 **Follow up:**
 
 A linked list can be reversed either iteratively or recursively. Could you implement both?
+
+## **Code**
 
 ```java
 /**

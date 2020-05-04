@@ -1,5 +1,7 @@
 # Valid Parenthesis String
 
+## Description
+
 Given a string containing only three types of characters: '\(', '\)' and '\*', write a function to check whether this string is valid. We define the validity of a string by these rules:
 
 1. Any left parenthesis `'('` must have a corresponding right parenthesis `')'`.
@@ -29,6 +31,8 @@ Given a string containing only three types of characters: '\(', '\)' and '\*', w
 **Note:**
 
 1. The string size will be in the range \[1, 100\].
+
+## **Code**
 
 ```java
 class Solution {

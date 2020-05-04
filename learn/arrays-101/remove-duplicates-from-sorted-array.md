@@ -1,5 +1,7 @@
 # Remove Duplicates from Sorted Array
 
+## Description
+
 Given a sorted array _nums_, remove the duplicates [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) such that each element appear only _once_ and return the new length.
 
 Do not allocate extra space for another array, you must do this by **modifying the input array** [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) with O\(1\) extra memory.
@@ -39,7 +41,7 @@ for (int i = 0; i < len; i++) {
 
 ```
 
-**Code:**
+## **Code**
 
 ```java
 public int removeDuplicates(int[] nums) {

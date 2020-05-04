@@ -1,5 +1,7 @@
 # Valid Mountain Array
 
+## Description
+
 Given an array `A` of integers, return `true` if and only if it is a _valid mountain array_.
 
 Recall that A is a mountain array if and only if:
@@ -33,6 +35,8 @@ Recall that A is a mountain array if and only if:
 
 1. `0 <= A.length <= 10000`
 2. `0 <= A[i] <= 10000` 
+
+## **Code**
 
 ```java
 public boolean validMountainArray(int[] A) {

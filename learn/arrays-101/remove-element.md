@@ -1,5 +1,7 @@
 # Remove Element
 
+## Description
+
 Given an array _nums_ and a value _val_, remove all instances of that value [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) and return the new length.
 
 Do not allocate extra space for another array, you must do this by **modifying the input array** [**in-place**](https://en.wikipedia.org/wiki/In-place_algorithm) with O\(1\) extra memory.
@@ -43,7 +45,7 @@ for (int i = 0; i < len; i++) {
 }
 ```
 
-**Code:**
+## **Code**
 
 ```java
 public int removeElement(int[] nums, int val) {

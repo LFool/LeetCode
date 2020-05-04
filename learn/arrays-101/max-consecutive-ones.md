@@ -1,6 +1,6 @@
 # Max Consecutive Ones
 
-
+## Description
 
 Given a binary array, find the maximum number of consecutive 1s in this array.
 
@@ -11,6 +11,8 @@ Given a binary array, find the maximum number of consecutive 1s in this array.
 > **Output:** 3
 >
 > **Explanation:** The first two digits or the last three digits are consecutive 1s. The maximum number of consecutive 1s is 3.
+
+## **Code**
 
 ```java
 public int findMaxConsecutiveOnes(int[] nums) {

@@ -1,5 +1,7 @@
 # Min Stack
 
+## Description
+
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 
 * push\(x\) -- Push element x onto stack.
@@ -31,6 +33,8 @@ minStack.getMin(); // return -2
 **Constraints:**
 
 * Methods `pop`, `top` and `getMin` operations will always be called on **non-empty** stacks.
+
+## **Code**
 
 ```java
 class MinStack {

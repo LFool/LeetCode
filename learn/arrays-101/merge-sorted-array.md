@@ -1,5 +1,7 @@
 # Merge Sorted Array
 
+## Description
+
 Given two sorted integer arrays _nums1_ and _nums2_, merge _nums2_ into _nums1_ as one sorted array.
 
 **Note:**
@@ -16,6 +18,8 @@ Given two sorted integer arrays _nums1_ and _nums2_, merge _nums2_ into _nums1_ 
 > nums2 = \[2,5,6\],           n = 3
 >
 > **Output:** \[1,2,2,3,5,6\]
+
+## **Code**
 
 ```java
 // 从下标i开始将数组整体向后移动一格

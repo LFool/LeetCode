@@ -1,5 +1,7 @@
 # Copy List with Random Pointer
 
+## Description
+
 A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
 
 Return a [**deep copy**](https://en.wikipedia.org/wiki/Object_copying#Deep_copy) of the list.
@@ -46,6 +48,8 @@ The Linked List is represented in the input/output as a list of `n` nodes. Each 
 * `-10000 <= Node.val <= 10000`
 * `Node.random` is null or pointing to a node in the linked list.
 * Number of Nodes will not exceed 1000.
+
+## **Code**
 
 ```java
 /*

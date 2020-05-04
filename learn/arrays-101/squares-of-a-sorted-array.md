@@ -1,5 +1,7 @@
 # Squares of a Sorted Array
 
+## Description
+
 Given an array of integers `A` sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
 
 **Example 1:** 
@@ -21,6 +23,8 @@ Given an array of integers `A` sorted in non-decreasing order, return an array o
 * `1 <= A.length <= 10000`
 * `-10000 <= A[i] <= 10000`
 * `A` is sorted in non-decreasing order.
+
+## **Code**
 
 ```java
 public int[] sortedSquares(int[] A) {

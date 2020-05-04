@@ -1,5 +1,7 @@
 # Middle of the Linked List
 
+## Description
+
 Given a non-empty, singly linked list with head node `head`, return a middle node of linked list.
 
 If there are two middle nodes, return the second middle node.
@@ -27,6 +29,8 @@ If there are two middle nodes, return the second middle node.
 **Note:**
 
 * The number of nodes in the given list will be between `1` and `100`.
+
+## **Code**
 
 ```java
 /**

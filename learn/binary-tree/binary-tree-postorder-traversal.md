@@ -1,5 +1,7 @@
 # Binary Tree Postorder Traversal
 
+## Description
+
 Given a binary tree, return the _postorder_ traversal of its nodes' values.
 
 **Example:**
@@ -16,6 +18,8 @@ Output: [3,2,1]
 ```
 
 **Follow up:** Recursive solution is trivial, could you do it iteratively?
+
+## **Code**
 
 ```java
 /**

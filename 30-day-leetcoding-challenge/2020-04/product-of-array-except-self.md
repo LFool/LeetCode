@@ -1,5 +1,7 @@
 # Product of Array Except Self
 
+## Description
+
 Given an array `nums` of _n_ integers where _n_ &gt; 1,  return an array `output` such that `output[i]` is equal to the product of all the elements of `nums` except `nums[i]`.
 
 **Example:**
@@ -14,6 +16,8 @@ Given an array `nums` of _n_ integers where _n_ &gt; 1,  return an array `output
 
 **Follow up:**  
 Could you solve it with constant space complexity? \(The output array **does not** count as extra space for the purpose of space complexity analysis.\)
+
+## **Code**
 
 ```java
 class Solution {

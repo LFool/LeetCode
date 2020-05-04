@@ -1,5 +1,7 @@
 # Remove Nth Node From End of List
 
+## Description
+
 Given a linked list, remove the _n_-th node from the end of list and return its head.
 
 **Example:**
@@ -15,6 +17,8 @@ Given _n_ will always be valid.
 **Follow up:**
 
 Could you do this in one pass?
+
+## **Code**
 
 ```java
 /**

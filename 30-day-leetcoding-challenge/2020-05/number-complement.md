@@ -1,5 +1,7 @@
 # Number Complement
 
+## Description
+
 Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.
 
 **Example 1:**
@@ -23,6 +25,8 @@ Given a positive integer, output its complement number. The complement strategy 
 1. The given integer is guaranteed to fit within the range of a 32-bit signed integer.
 2. You could assume no leading zero bit in the integer’s binary representation.
 3. This question is the same as 1009: [https://leetcode.com/problems/complement-of-base-10-integer/](https://leetcode.com/problems/complement-of-base-10-integer/)
+
+## code:
 
 ```java
 class Solution {

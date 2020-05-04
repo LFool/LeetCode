@@ -1,5 +1,7 @@
 # Construct Binary Tree from Inorder and Postorder Traversal
 
+## Description
+
 Given inorder and postorder traversal of a tree, construct the binary tree.
 
 **Note:**  
@@ -21,9 +23,7 @@ Return the following binary tree:
    15   7
 ```
 
-\*\*\*\*
-
-**Solution Code:**
+## **Code**
 
 ```java
 public TreeNode buildTree(int[] inorder, int[] postorder) {

@@ -1,5 +1,7 @@
 # Populating Next Right Pointers in Each Node II
 
+## Description
+
 Given a binary tree
 
 ```java
@@ -34,6 +36,8 @@ Initially, all next pointers are set to `NULL`.
 
 * The number of nodes in the given tree is less than `6000`.
 * `-100 <= node.val <= 100`
+
+## **Code**
 
 ```java
 /*

@@ -1,5 +1,7 @@
 # Group Anagrams
 
+## Description
+
 Given an array of strings, group anagrams together.
 
 **Example:**
@@ -22,6 +24,8 @@ Given an array of strings, group anagrams together.
 
 * All inputs will be in lowercase.
 * The order of your output does not matter.
+
+## **Code**
 
 ```java
 class Solution {

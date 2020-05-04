@@ -1,5 +1,7 @@
 # Best Time to Buy and Sell Stock II
 
+## Description
+
 Say you have an array `prices` for which the _i-_th element is the price of a given stock on day _i_.
 
 Design an algorithm to find the maximum profit. You may complete as many transactions as you like \(i.e., buy one and sell one share of the stock multiple times\).
@@ -34,6 +36,8 @@ Design an algorithm to find the maximum profit. You may complete as many transac
 
 * `1 <= prices.length <= 3 * 10 ^ 4`
 * `0 <= prices[i] <= 10 ^ 4`
+
+## **Code**
 
 ```java
 class Solution {

@@ -1,6 +1,6 @@
 # Height Checker
 
-
+## Description
 
 Students are asked to stand in non-decreasing order of heights for an annual photo.
 
@@ -42,6 +42,8 @@ Notice that when a group of students is selected they can reorder in any possibl
 
 * `1 <= heights.length <= 100`
 * `1 <= heights[i] <= 100`
+
+## **Code**
 
 {% tabs %}
 {% tab title="Java" %}

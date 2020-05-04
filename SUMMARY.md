@@ -72,8 +72,12 @@
     * [Minimum Path Sum](30-day-leetcoding-challenge/2020-04/minimum-path-sum.md)
     * [Search in Rotated Sorted Array](30-day-leetcoding-challenge/2020-04/search-in-rotated-sorted-array.md)
     * [Construct Binary Search Tree from Preorder Traversal](30-day-leetcoding-challenge/2020-04/construct-binary-search-tree-from-preorder-traversal.md)
+    * [Subarray Sum Equals K](30-day-leetcoding-challenge/2020-04/subarray-sum-equals-k.md)
+    * [Bitwise AND of Numbers Range](30-day-leetcoding-challenge/2020-04/bitwise-and-of-numbers-range.md)
+    * [LRU Cache](30-day-leetcoding-challenge/2020-04/lru-cache.md)
   * [2020-05](30-day-leetcoding-challenge/2020-05/README.md)
     * [First Bad Version](30-day-leetcoding-challenge/2020-05/first-bad-version.md)
     * [Jewels and Stones](30-day-leetcoding-challenge/2020-05/jewels-and-stones.md)
     * [Ransom Note](30-day-leetcoding-challenge/2020-05/ransom-note.md)
+    * [Number Complement](30-day-leetcoding-challenge/2020-05/number-complement.md)
 

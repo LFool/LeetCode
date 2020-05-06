@@ -54,6 +54,7 @@
   * [1. Two Sum](algorithms/two-sum.md)
   * [2. Add Two Numbers](algorithms/2.-add-two-numbers.md)
   * [3. Longest Substring Without Repeating Characters](algorithms/3.-longest-substring-without-repeating-characters.md)
+  * [4. Median of Two Sorted Arrays](algorithms/4.-median-of-two-sorted-arrays.md)
   * [7. Reverse Integer](algorithms/7.-reverse-integer.md)
 * [30-Day LeetCoding Challenge](30-day-leetcoding-challenge/README.md)
   * [2020-04](30-day-leetcoding-challenge/2020-04/README.md)
@@ -88,4 +89,5 @@
     * [Ransom Note](30-day-leetcoding-challenge/2020-05/ransom-note.md)
     * [Number Complement](30-day-leetcoding-challenge/2020-05/number-complement.md)
     * [First Unique Character in a String](30-day-leetcoding-challenge/2020-05/first-unique-character-in-a-string.md)
+    * [Majority Element](30-day-leetcoding-challenge/2020-05/majority-element.md)
 

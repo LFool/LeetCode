@@ -91,4 +91,5 @@
     * [Number Complement](30-day-leetcoding-challenge/2020-05/number-complement.md)
     * [First Unique Character in a String](30-day-leetcoding-challenge/2020-05/first-unique-character-in-a-string.md)
     * [Majority Element](30-day-leetcoding-challenge/2020-05/majority-element.md)
+    * [Cousins in Binary Tree](30-day-leetcoding-challenge/2020-05/cousins-in-binary-tree.md)
 

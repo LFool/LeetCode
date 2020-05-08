@@ -93,4 +93,6 @@
     * [Majority Element](30-day-leetcoding-challenge/2020-05/majority-element.md)
     * [Cousins in Binary Tree](30-day-leetcoding-challenge/2020-05/cousins-in-binary-tree.md)
     * [Check If It Is a Straight Line](30-day-leetcoding-challenge/2020-05/check-if-it-is-a-straight-line.md)
+* [Note](note/README.md)
+  * [Bit Manipulation](note/bit-manipulation.md)
 

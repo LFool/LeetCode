@@ -57,6 +57,7 @@
   * [4. Median of Two Sorted Arrays](algorithms/4.-median-of-two-sorted-arrays.md)
   * [7. Reverse Integer](algorithms/7.-reverse-integer.md)
   * [9. Palindrome Number](algorithms/9.-palindrome-number.md)
+  * [204. Count Primes](algorithms/204.-count-primes.md)
 * [30-Day LeetCoding Challenge](30-day-leetcoding-challenge/README.md)
   * [2020-04](30-day-leetcoding-challenge/2020-04/README.md)
     * [Single Number](30-day-leetcoding-challenge/2020-04/single-number.md)
